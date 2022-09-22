@@ -1,0 +1,11 @@
+.cocktail{
+    background-color: yellowgreen;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 15px;
+    border: 2px solid red;
+}
+
+.cocktail img{
+    border-radius: 15px;
+}
